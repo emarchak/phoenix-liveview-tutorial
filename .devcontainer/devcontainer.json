@@ -18,6 +18,5 @@
   "settings": {
     "terminal.integrated.shell.linux": "/usr/bin/zsh"
   },
-  "forwardPorts": [4000],
-  "postCreateCommand": "bash .devcontainer/setup-dev.sh"
+  "forwardPorts": [4000]
 }
